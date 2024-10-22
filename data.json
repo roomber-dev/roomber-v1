@@ -1,0 +1,127 @@
+{
+    "blocked_words": [
+        {
+            "from": "fuck",
+            "to": "fork"
+        },
+        {
+            "from": "shit",
+            "to": "poop"
+        },
+        {
+            "from": "sex",
+            "to": "six"
+        },
+        {
+            "from": "piss",
+            "to": "pee"
+        },
+        {
+            "from": "anal",
+            "to": "anna"
+        },
+        {
+            "from": "ass",
+            "to": "butt"
+        },
+        {
+            "from": "balls",
+            "to": "eggs"
+        },
+        {
+            "from": "bitch",
+            "to": "lady"
+        },
+        {
+            "from": "nigga",
+            "to": "man"
+        },
+        {
+            "from": "nigger",
+            "to": "man"
+        },
+        {
+            "from": "bullshit",
+            "to": "bullhunky"
+        },
+        {
+            "from": "cock",
+            "to": "chicken"
+        },
+        {
+            "from": "cum",
+            "to": "sus milk"
+        },
+        {
+            "from": "cunt",
+            "to": "good man"
+        },
+        {
+            "from": "dick",
+            "to": "sausage"
+        },
+        {
+            "from": "pussy",
+            "to": "kitten"
+        },
+        {
+            "from": "fat",
+            "to": "chubby"
+        },
+        {
+            "from": "milf",
+            "to": "elder woman"
+        },
+        {
+            "from": "dilf",
+            "to": "elder man"
+        },
+        {
+            "from": "motherfucker",
+            "to": "good man"
+        },
+        {
+            "from": "penis",
+            "to": "sausage"
+        },
+        {
+            "from": "retarted",
+            "to": "smart"
+        },
+        {
+            "from": "whore",
+            "to": "whole"
+        },
+                {
+            "from": "porn",
+            "to": "corn"
+        },
+        {
+            "from": "hentai",
+            "to": "🐔👔"
+        },
+        {
+            "from": "boob",
+            "to": "poop"
+        }
+    ],
+    "empty_chars": [
+        " ",
+        "",
+        "\\"
+    ],
+    "brand_name": "Roomber",
+    "full_brand_name": "Roomber",
+    "site_address": "http://xtramessage.rf.gd/",
+    "cooldown": 1500,
+    "emojis": [
+        {"code":"logo","url":"./assets/img/roomber-logo.png","description":"Roomber logo"},
+        {"code":"spooked_hamster","url":"./assets/img/emoji/hamster_spooked.jpg","description":"Spooked Hamster 😳"},
+        {"code":"neksodebe","url":"https://cdn.discordapp.com/attachments/861323929510477835/867091387668496404/costume3.png","description":"the owner of xtramessage"},
+        {"code":"sad_spunch","url":"https://cdn.discordapp.com/attachments/818865443824992277/867098508531073054/image0.png","description":"sad :("}
+    ],
+    "text_emojis": [
+        {"code":"flushed","emoji":"😳"},
+        {"code":"sweat_smile","emoji":"😅"}
+    ]
+}
